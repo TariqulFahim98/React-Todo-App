@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@theme inline{
+
+}
+:root{
+  --primary: #2cff05;
+  --glass: rgba(0,0,0,0.05);
+}
